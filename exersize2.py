@@ -3,7 +3,7 @@ qestions = [
     "Which language was used to create fb?", "Python","none", "French", "JavaScript","d"
   ],
   [
-    "India Prime minister name?", "Modi", "Rahul", "Sagar","none","a"
+    "India Prime minister name?", "Modi", "Rahul", "Sagar","soniyagandhi","a"
   ],
   [
     "Surat kesa city he", "Smart", "Cleane", "Green","none","a"
